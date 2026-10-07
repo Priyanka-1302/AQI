@@ -1,0 +1,3 @@
+# Preserve the original dataset bytes and its documented SHA-256 across platforms.
+archive/aqi.csv -text
+models/*.joblib binary
